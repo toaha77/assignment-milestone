@@ -134,7 +134,30 @@
     
 }
 #img{
-    padding: 100px 400px 100px 300px;
-    width: 318px;
-    height: 420px; 
+    /* padding: 130px 400px 100px 400px; */
+    padding-left: 200px;
+    padding-top: 100px;
+    width: 310px;
+    height: 320px; 
+     
+ 
+}
+.insta-text{
+    text-align: center;
+    color: #272727;
+    font-size: 40px;
+    margin-top: 30px;
+}
+.text-two{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    margin-top: 30px;
+}
+.rectangle-image{
+    width: 320px;
+    height: 376px;
+    display: flex;
+    margin-top: 20px;
+    gap: 10px;
 }
